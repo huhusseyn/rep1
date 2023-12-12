@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Aula 1 - Introdução aos Bancos de Dados/Importância dos Bancos de Dados.md",
+                    "file": "Aula 1 - Introdução aos Bancos de Dados/Classificação dos Bancos de Dados.md",
                     "mode": "source",
                     "source": false
                   }
@@ -38,7 +38,6 @@
                 }
               }
             ],
-            "currentTab": 1,
             "stacked": true
           },
           {
@@ -52,7 +51,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Aula 1 - Introdução aos Bancos de Dados/Importância dos Bancos de Dados.md",
+                    "file": "Aula 1 - Introdução aos Bancos de Dados/Classificação dos Bancos de Dados.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aula 1 - Introdução aos Bancos de Dados/Importância dos Bancos de Dados.md",
+                "file": "Aula 1 - Introdução aos Bancos de Dados/Classificação dos Bancos de Dados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aula 1 - Introdução aos Bancos de Dados/Importância dos Bancos de Dados.md",
+                "file": "Aula 1 - Introdução aos Bancos de Dados/Classificação dos Bancos de Dados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aula 1 - Introdução aos Bancos de Dados/Importância dos Bancos de Dados.md"
+                "file": "Aula 1 - Introdução aos Bancos de Dados/Classificação dos Bancos de Dados.md"
               }
             }
           }
@@ -195,7 +194,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ae349c5096a6826",
+  "active": "171fa9eaf3ee450c",
   "lastOpenFiles": [
     "Aula 1 - Introdução aos Bancos de Dados/Importância dos Bancos de Dados.md",
     "Aula 1 - Introdução aos Bancos de Dados/Confiabilidade dos dados.md",
