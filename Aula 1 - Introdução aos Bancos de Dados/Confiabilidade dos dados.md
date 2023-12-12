@@ -1,0 +1,1 @@
+Dados errados podem levar à conclusões erradas
