@@ -1,3 +1,6 @@
+## Ajuste Christian
+Vamos ver se esse treco funciona de verdade
+
 ## Resumo da aula 1
 Na primeira aula, estaremos focados em consolidar o entendimento sobre os Bancos de Dados. Começaremos com a **Definição de Bancos de Dados**, compreendendo o que são e sua relevância: estruturas fundamentais que possibilitam o armazenamento, gestão e recuperação eficiente de informações. Ao explorar a **Importância dos Bancos de Dados**, destacaremos como esses sistemas são cruciais para organizações ao simplificar o acesso e a organização dos dados. Além disso, abordaremos um pouco sobre a **História dos Bancos de Dados**, entendendo sua evolução ao longo do tempo.
 

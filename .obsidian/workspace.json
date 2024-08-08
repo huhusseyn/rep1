@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Comece Aqui.md",
+                "file": "Aula 1 - Introdução aos Bancos de Dados.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Comece Aqui.md",
+                "file": "Aula 1 - Introdução aos Bancos de Dados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Comece Aqui.md",
+                "file": "Aula 1 - Introdução aos Bancos de Dados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Comece Aqui.md"
+                "file": "Aula 1 - Introdução aos Bancos de Dados.md"
               }
             }
           },
@@ -167,14 +167,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ae349c5096a6826",
+  "active": "b2aad70899250666",
   "lastOpenFiles": [
+    "00 - Comece Aqui.md",
     "01 - GIT.md",
     "99 - Termine aqui.pdf",
     "99 - Termine aqui.md",
     "Aula 1 - Introdução aos Bancos de Dados/Classificação dos Bancos de Dados.md",
     "Aula 1 - Introdução aos Bancos de Dados.md",
-    "00 - Comece Aqui.md",
     "Desafios e Vantagens da Gamificação na Sala de Aula.md",
     "Feed.md",
     "Aula 1 - Introdução aos Bancos de Dados/Confiabilidade dos dados.md",
